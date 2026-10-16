@@ -1,2 +1,2 @@
-# Profil-web
+# profil-web
 TUGAS LOGIKA PEMROGRAMAN
