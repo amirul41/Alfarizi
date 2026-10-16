@@ -1,2 +1,2 @@
-# Alfarizi
+# Profil-web
 TUGAS LOGIKA PEMROGRAMAN
